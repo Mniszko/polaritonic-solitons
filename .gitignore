@@ -3,3 +3,4 @@ plan.md
 *.svg
 temp_*
 temp.*
+__pycache__
